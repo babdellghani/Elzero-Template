@@ -9,7 +9,7 @@ This is a reusable template for building fast, modern websites. Key features inc
 Fully responsive and mobile\
 Friendly design Built with HTML5 and CSS3 Easily customizable with CSS variables \
 Reusable components and layout built with Flexbox \
-Speed optimized for performance\
+Speed optimized for performance
 
 
 
