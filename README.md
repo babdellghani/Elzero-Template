@@ -3,7 +3,7 @@ Template3-HTML-CSS
 
 Template A responsive HTML5 website template built with CSS and JavaScript.
 
-##Overview
+## Overview
 This is a reusable template for building fast, modern websites. Key features include:
 
 Fully responsive and mobile
