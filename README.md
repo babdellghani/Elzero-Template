@@ -1,5 +1,5 @@
-# Template3-HTML-CSS
-Template3-HTML-CSS
+# Template 3-HTML-CSS
+Template 3-HTML-CSS
 
 Template A responsive HTML5 website template built with CSS and JavaScript.
 
