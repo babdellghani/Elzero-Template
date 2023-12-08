@@ -1,7 +1,6 @@
 # Template 3-HTML-CSS
-Template 3-HTML-CSS
-
-Template A responsive HTML5 website template built with CSS and JavaScript.
+Template A responsive HTML5 website template built with CSS and JavaScript. \
+Design UI/UX: @ElzeroWebSchool
 
 ## Overview
 This is a reusable template for building fast, modern websites. Key features include:
