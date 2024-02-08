@@ -1,5 +1,5 @@
 # Elzero Template
-Template A responsive HTML5 website template built with CSS and JavaScript. \
+Elzero Template A responsive HTML5 website template built with CSS and JavaScript. \
 Design UI/UX: @ElzeroWebSchool
 
 ## Overview
